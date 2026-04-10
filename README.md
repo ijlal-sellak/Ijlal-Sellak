@@ -14,7 +14,10 @@
 <br>
 
 <div align="center">
-  <i>"she codes, therefore she creates"</i>
+  <i><strong>"Data are just summaries of thousands of stories. Transform them well, and you give those stories a voice. Transform them poorly, and you bury them forever."</strong>
+— Adapted from Chip & Dan Heath
+
+</i>
 </div>
 
 <br>
