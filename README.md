@@ -10,21 +10,6 @@
 
 <br>
 
-<div align="center">
-  <pre>
-  ╔══════════════════════════════════════════╗
-  ║                                          ║
-  ║    Ijlal Sellak                          ║
-  ║    Knowledge Engineering & Data Science  ║
-  ║                                          ║
-  ║    Python • Pandas • TensorFlow          ║
-  ║    FastAPI • MongoDB • Plotly            ║
-  ║                                          ║
-  ║    Seeking 2-month PFA internship        ║
-  ║                                          ║
-  ╚══════════════════════════════════════════╝
-  </pre>
-</div>
 
 <br>
 
