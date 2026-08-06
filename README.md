@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1D9,100:FFB8D1&height=200&section=header&text=Hi,%20I'm%20Ijlal%20&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20ML%20%7C%20AI%20%7C%20Deep%20Learning&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1D9,100:FFB8D1&height=200&section=header&text=Hi,%20I'm%20Ijlal%20&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Researcher%20%7C%20NLP%20%26%20Computer%20Vision%20%7C%20Building%20AI%20Solutions&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=26&pause=1000&color=FFB8D1&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+stories+%F0%9F%8C%B8;Machine+Learning+%7C+Deep+Learning+%F0%9F%A4%8D;Coding+with+%E2%9D%A4%EF%B8%8F+and+%E2%98%95;Always+learning%2C+always+curious" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=26&pause=1000&color=FFB8D1&center=true&vCenter=true&width=650&lines=Researching+and+building+real+AI+systems+%F0%9F%8C%B8;NLP+%7C+Computer+Vision+%7C+LLMs+%F0%9F%A4%8D;From+notebook+experiments+to+deployed+APIs+%E2%9A%99%EF%B8%8F;Coding+with+%E2%9D%A4%EF%B8%8F+and+%E2%98%95" />
 </div>
 
 <br>
@@ -25,26 +25,53 @@
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
-- 🎓 Data Science student, fascinated by the stories hidden inside data
-- 🤖 Currently deep-diving into **Machine Learning**, **Deep Learning** and **AI**
-- 🌱 Always exploring new libraries, papers, and pastel-pink dashboards
-- 💌 Reach me any time — details below
+- Data Science student, focused on **research** and turning ideas into working AI systems
+- Exploring **NLP**, **Computer Vision**,**RAG** and **LLMs** — from papers to prototypes
+- like closing the loop: train the model, then ship it as a real API
+- Always reading, always experimenting — currently digging into transformer-based architectures
 
 
 <br clear="right"/>
+
+## 🔬 Research & Focus Areas
+
+<div align="center">
+
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-FFB8D1?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FFC1D9?style=for-the-badge&logo=opencv&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FFB8D1?style=for-the-badge&logo=openai&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FFC1D9?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</div>
+
+<p align="center">
+  <sub>Interested in how models understand language and images, and in making research results usable outside a notebook.</sub>
+</p>
+
+<br>
 
 ## 🛠️ My Toolkit
 
 <div align="center">
 
+<sub><b>Languages & Data</b></sub><br>
 ![Python](https://img.shields.io/badge/Python-FFB8D1?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-FFC1D9?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-FFB8D1?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-FFC1D9?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFB8D1?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-FFC1D9?style=for-the-badge&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-FFB8D1?style=for-the-badge&logo=jupyter&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FFC1D9?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br><sub><b>ML / DL / AI</b></sub><br>
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-FFB8D1?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FFC1D9?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FFB8D1?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFC1D9?style=for-the-badge&logo=huggingface&logoColor=white)
+
+
+<br><sub><b>Building & Shipping</b></sub><br>
+![Flask](https://img.shields.io/badge/Flask-FFB8D1?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-FFC1D9?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FFB8D1?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FFC1D9?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FFB8D1?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -80,7 +107,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ijlalsellak&color=ffb8d1&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=ijlal-sellak&color=ffb8d1&style=flat-square&label=Profile+Views" />
 </div>
 
 <br>
@@ -88,4 +115,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB8D1,100:FFC1D9&height=100&section=footer" width="100%"/>
   <i>thanks for stopping by, have a lovely day 🌷</i>
+</div>
+  <img src="https://komarev.com/ghpvc/?username=ijlalsellak&color=ffb8d1&style=flat-square&label=Profile+Views" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB8D1,100:FFC1D9&height=100&section=footer" width="100%"/>
+  <i> have a lovely day </i>
 </div>
