@@ -56,11 +56,6 @@
 ##  GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ijlal-sellak&show_icons=true&theme=radical&hide_border=true&title_color=FFB8D1&icon_color=FFC1D9&text_color=ffffff&bg_color=00000000" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijlal-sellak&layout=compact&theme=radical&hide_border=true&title_color=FFB8D1&text_color=ffffff&bg_color=00000000" width="38%"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ijlal-sellak&theme=radical&hide_border=true&background=00000000&ring=FFB8D1&fire=FFC1D9&currStreakLabel=FFB8D1" width="65%"/>
 </div>
 
