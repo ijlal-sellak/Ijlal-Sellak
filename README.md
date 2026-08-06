@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1D9,100:FFB8D1&height=200&section=header&text=Hi,%20I'm%20Ijlal%20&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Researcher%20%7C%20NLP%20%26%20Computer%20Vision%20%7C%20Building%20AI%20Solutions&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1D9,100:FFB8D1&height=200&section=header&text=Hi,%20I'm%20Ijlal%20✨&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Researcher%20%7C%20NLP%20%26%20Computer%20Vision%20%7C%20Building%20AI%20Solutions&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
 
@@ -25,11 +25,11 @@
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
-- Data Science student, focused on **research** and turning ideas into working AI systems
-- Exploring **NLP**, **Computer Vision**,**RAG** and **LLMs** — from papers to prototypes
-- like closing the loop: train the model, then ship it as a real API
-- Always reading, always experimenting — currently digging into transformer-based architectures
-
+- 🎓 Data Science student, focused on **research** and turning ideas into working AI systems
+- 🧠 Exploring **NLP**, **Computer Vision**, and **LLMs** — from papers to prototypes
+- ⚙️ I like closing the loop: train the model, then ship it as a real API with **Flask** / **FastAPI**
+- 🔬 Always reading, always experimenting — currently digging into transformer-based architectures
+- 💌 Reach me any time — details below
 
 <br clear="right"/>
 
@@ -65,7 +65,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FFC1D9?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-FFB8D1?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFC1D9?style=for-the-badge&logo=huggingface&logoColor=white)
-
+![OpenCV](https://img.shields.io/badge/OpenCV-FFB8D1?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FFC1D9?style=for-the-badge&logo=langchain&logoColor=white)
 
 <br><sub><b>Building & Shipping</b></sub><br>
 ![Flask](https://img.shields.io/badge/Flask-FFB8D1?style=for-the-badge&logo=flask&logoColor=white)
@@ -115,13 +116,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB8D1,100:FFC1D9&height=100&section=footer" width="100%"/>
   <i>thanks for stopping by, have a lovely day 🌷</i>
-</div>
-  <img src="https://komarev.com/ghpvc/?username=ijlalsellak&color=ffb8d1&style=flat-square&label=Profile+Views" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB8D1,100:FFC1D9&height=100&section=footer" width="100%"/>
-  <i> have a lovely day </i>
 </div>
