@@ -1,5 +1,7 @@
-<div align="center">
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ijlal-sellak&color=ffb8d1&style=flat-square&label=Profile+Views" />
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1D9,100:FFB8D1&height=200&section=header&text=Hi,%20I'm%20Ijlal%20&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Researcher%20%7C%20NLP%20%26%20Computer%20Vision%20%7C%20Building%20AI%20Solutions&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
