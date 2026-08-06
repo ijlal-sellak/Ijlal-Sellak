@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1D9,100:FFB8D1&height=200&section=header&text=Hi,%20I'm%20Ijlal%20✨&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Researcher%20%7C%20NLP%20%26%20Computer%20Vision%20%7C%20Building%20AI%20Solutions&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1D9,100:FFB8D1&height=200&section=header&text=Hi,%20I'm%20Ijlal%20&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Researcher%20%7C%20NLP%20%26%20Computer%20Vision%20%7C%20Building%20AI%20Solutions&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
 
@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="180" alt="a little cat walking across the profile"/>
+  <img src="https://i.pinimg.com/originals/dd/aa/81/ddaa813eef9fb1c57a8dfd6142a3d955.gif" width="180" alt="a little cat walking across the profile"/>
 </p>
 
 <p align="center">
@@ -21,19 +21,18 @@
 
 <br>
 
-## 🌸 About Me
+##  About Me
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
-- 🎓 Data Science student, focused on **research** and turning ideas into working AI systems
-- 🧠 Exploring **NLP**, **Computer Vision**, and **LLMs** — from papers to prototypes
-- ⚙️ I like closing the loop: train the model, then ship it as a real API with **Flask** / **FastAPI**
-- 🔬 Always reading, always experimenting — currently digging into transformer-based architectures
-- 💌 Reach me any time — details below
+-   Data Science student, focused on **research** and turning ideas into working AI systems
+-   Currently Exploring **NLP**, **Computer Vision**, and **LLMs** from papers to prototypes
+-   Always reading, always experimenting 
+
 
 <br clear="right"/>
 
-## 🔬 Research & Focus Areas
+##  Research & Focus Areas
 
 <div align="center">
 
@@ -50,36 +49,11 @@
 
 <br>
 
-## 🛠️ My Toolkit
 
-<div align="center">
-
-<sub><b>Languages & Data</b></sub><br>
-![Python](https://img.shields.io/badge/Python-FFB8D1?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-FFC1D9?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-FFB8D1?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FFC1D9?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br><sub><b>ML / DL / AI</b></sub><br>
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-FFB8D1?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFC1D9?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-FFB8D1?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFC1D9?style=for-the-badge&logo=huggingface&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-FFB8D1?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-FFC1D9?style=for-the-badge&logo=langchain&logoColor=white)
-
-<br><sub><b>Building & Shipping</b></sub><br>
-![Flask](https://img.shields.io/badge/Flask-FFB8D1?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-FFC1D9?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FFB8D1?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-FFC1D9?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FFB8D1?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
 
 <br>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ijlal-sellak&show_icons=true&theme=radical&hide_border=true&title_color=FFB8D1&icon_color=FFC1D9&text_color=ffffff&bg_color=00000000" width="48%"/>
@@ -96,7 +70,7 @@
 
 <br>
 
-## 💌 Find Me Here
+##  Find Me Here
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ijlal-sellak">
@@ -115,5 +89,5 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB8D1,100:FFC1D9&height=100&section=footer" width="100%"/>
-  <i>thanks for stopping by, have a lovely day 🌷</i>
+  <i> have a lovely day </i>
 </div>
