@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1D9,100:FFB8D1&height=200&section=header&text=Hi,%20I'm%20Ijlal%20✨&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20ML%20%7C%20AI%20%7C%20Deep%20Learning&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1D9,100:FFB8D1&height=200&section=header&text=Hi,%20I'm%20Ijlal%20&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20ML%20%7C%20AI%20%7C%20Deep%20Learning&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -29,7 +29,7 @@
 - 🤖 Currently deep-diving into **Machine Learning**, **Deep Learning** and **AI**
 - 🌱 Always exploring new libraries, papers, and pastel-pink dashboards
 - 💌 Reach me any time — details below
-- ☕ Fun fact: my best code is written after a good cup of coffee
+
 
 <br clear="right"/>
 
@@ -54,16 +54,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ijlalsellak&show_icons=true&theme=radical&hide_border=true&title_color=FFB8D1&icon_color=FFC1D9&text_color=ffffff&bg_color=00000000" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijlalsellak&layout=compact&theme=radical&hide_border=true&title_color=FFB8D1&text_color=ffffff&bg_color=00000000" width="38%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ijlal-sellak&show_icons=true&theme=radical&hide_border=true&title_color=FFB8D1&icon_color=FFC1D9&text_color=ffffff&bg_color=00000000" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijlal-sellak&layout=compact&theme=radical&hide_border=true&title_color=FFB8D1&text_color=ffffff&bg_color=00000000" width="38%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ijlalsellak&theme=radical&hide_border=true&background=00000000&ring=FFB8D1&fire=FFC1D9&currStreakLabel=FFB8D1" width="65%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ijlal-sellak&theme=radical&hide_border=true&background=00000000&ring=FFB8D1&fire=FFC1D9&currStreakLabel=FFB8D1" width="65%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ijlalsellak&theme=react-dark&hide_border=true&bg_color=00000000&color=FFB8D1&line=FFC1D9&point=ffffff" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ijlal-sellak&theme=react-dark&hide_border=true&bg_color=00000000&color=FFB8D1&line=FFC1D9&point=ffffff" width="90%"/>
 </div>
 
 <br>
