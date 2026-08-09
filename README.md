@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=26&pause=1000&color=FFB8D1&center=true&vCenter=true&width=650&lines=Researching+and+building+real+AI+systems+%F0%9F%8C%B8;NLP+%7C+Computer+Vision+%7C+LLMs+%F0%9F%A4%8D;From+notebook+experiments+to+deployed+APIs+%E2%9A%99%EF%B8%8F;Coding+with+%E2%9D%A4%EF%B8%8F+and+%E2%98%95" />
+ <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=26&pause=1000&color=FFB8D1&center=true&vCenter=true&width=650&lines=Coding+with+love+and+coffee" />
 </div>
 
 <br>
