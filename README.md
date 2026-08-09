@@ -24,10 +24,10 @@
 ##  About Me
 
 
-
--   Data Science and AI student, focused on **research** and turning ideas into working AI systems
--   Currently Exploring **NLP**, **Computer Vision**, and **LLMs** from papers to prototypes
--   Always reading, always experimenting 
+- Data Science and AI student interested in **Machine Learning, NLP, Computer Vision, and LLMs**
+- Focused on **research, experimentation, and building practical AI systems**
+- Exploring ideas from **research papers to working prototypes**
+- Interested in developing models that move beyond experimentation into **real-world applications**
 
 
 <br clear="right"/>
@@ -35,30 +35,43 @@
 ##  Research & Focus Areas
 
 <div align="center">
+  
+- **Machine Learning & Deep Learning**
+- **Natural Language Processing**
+- **Computer Vision**
+- **Large Language Models & Generative AI**
+- **Retrieval-Augmented Generation (RAG)**
+- **AI Systems & Model Deployment**
 
-![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-FFB8D1?style=for-the-badge&logo=googletranslate&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FFC1D9?style=for-the-badge&logo=opencv&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-FFB8D1?style=for-the-badge&logo=openai&logoColor=white)
-</div>
 
-<p align="center">
-  <sub>Interested in how models understand language and images, and in making research results usable outside a notebook.</sub>
-</p>
 
 <br>
-
-
-
+## Tech Stack
+ 
+**Languages**
+ 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-2C3E50?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4A6FA5?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-2C3E50?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-4A6FA5?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-4A6FA5?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-2C3E50?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-4A6FA5?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-2C3E50?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-4A6FA5?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-4A6FA5?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-4A6FA5?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-4A6FA5?style=for-the-badge&logoColor=white" />
 <br>
 
 ##  GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ijlal-sellak&theme=radical&hide_border=true&background=00000000&ring=FFB8D1&fire=FFC1D9&currStreakLabel=FFB8D1" width="65%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ijlal-sellak&theme=radical&hide_border=true&background=00000000&ring=4A6FA5&fire=2C3E50&currStreakLabel=4A6FA5" width="65%"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ijlal-sellak&theme=react-dark&hide_border=true&bg_color=00000000&color=FFB8D1&line=FFC1D9&point=ffffff" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ijlal-sellak&theme=react-dark&hide_border=true&bg_color=00000000&color=4A6FA5&line=2C3E50&point=ffffff" width="90%"/>
 </div>
 
 <br>
