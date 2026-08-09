@@ -11,10 +11,6 @@
 <br>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/dd/aa/81/ddaa813eef9fb1c57a8dfd6142a3d955.gif" width="180" alt="a little cat walking across the profile"/>
-</p>
-
-<p align="center">
   <i>"Data are just summaries of thousands of stories. Transform them well, and you give those stories a voice.<br>Transform them poorly, and you bury them forever."</i><br>
   <sub>— adapted from Chip & Dan Heath</sub>
 </p>
@@ -45,10 +41,8 @@
 
 
 
-<br>
-## Tech Stack
- 
-**Languages**
+##  Tech Stack
+
  
 <div align="center">
   <img src="https://img.shields.io/badge/Python-2C3E50?style=for-the-badge&logo=python&logoColor=white" />
