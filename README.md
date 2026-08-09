@@ -23,9 +23,9 @@
 
 ##  About Me
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
--   Data Science student, focused on **research** and turning ideas into working AI systems
+
+-   Data Science and AI student, focused on **research** and turning ideas into working AI systems
 -   Currently Exploring **NLP**, **Computer Vision**, and **LLMs** from papers to prototypes
 -   Always reading, always experimenting 
 
@@ -39,8 +39,6 @@
 ![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-FFB8D1?style=for-the-badge&logo=googletranslate&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FFC1D9?style=for-the-badge&logo=opencv&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-FFB8D1?style=for-the-badge&logo=openai&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FFC1D9?style=for-the-badge&logo=tensorflow&logoColor=white)
-
 </div>
 
 <p align="center">
