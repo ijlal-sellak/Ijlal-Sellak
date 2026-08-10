@@ -21,14 +21,14 @@
 
 
 - Data Science & AI engineering student focused on Machine Learning, NLP, Computer Vision, and LLMs.
-- Focused on research, experimentation, and building practical AI systems
-- Exploring ideas from **research papers to working prototypes
+- Focused on Learning, experimentation, and building practical AI systems
+- Exploring ideas from research papers to working prototypes
 - Interested in developing models that move beyond experimentation into real-world applications
 
 
 <br clear="right"/>
 
-##  Research & Focus Areas
+##  Focus Areas
 
 <div align="center">
   
@@ -38,7 +38,7 @@
 - Large Language Models & Generative AI
 - Retrieval-Augmented Generation 
 - AI Systems & Model Deployment
-
+- AI Agents
 
 
 ##  Tech Stack
