@@ -20,10 +20,10 @@
 ##  About Me
 
 
-- Data Science and AI student interested in **Machine Learning, NLP, Computer Vision, and LLMs**
-- Focused on **research, experimentation, and building practical AI systems**
-- Exploring ideas from **research papers to working prototypes**
-- Interested in developing models that move beyond experimentation into **real-world applications**
+- Data Science & AI engineering student focused on Machine Learning, NLP, Computer Vision, and LLMs.
+- Focused on research, experimentation, and building practical AI systems
+- Exploring ideas from **research papers to working prototypes
+- Interested in developing models that move beyond experimentation into real-world applications
 
 
 <br clear="right"/>
@@ -32,12 +32,12 @@
 
 <div align="center">
   
-- **Machine Learning & Deep Learning**
-- **Natural Language Processing**
-- **Computer Vision**
-- **Large Language Models & Generative AI**
-- **Retrieval-Augmented Generation (RAG)**
-- **AI Systems & Model Deployment**
+- Machine Learning 
+- Natural Language Processing
+- Computer Vision
+- Large Language Models & Generative AI
+- Retrieval-Augmented Generation 
+- AI Systems & Model Deployment
 
 
 
