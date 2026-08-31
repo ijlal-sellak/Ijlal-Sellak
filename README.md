@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <i>"Because Without Data , we are just the " just another person with an opinion ".</i><br>
+  <i>"Because Without Data , we are just the " another person with an opinion ".</i><br>
   <sub>— W. Edward Deming </sub>
 </p>
 
