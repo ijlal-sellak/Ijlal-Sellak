@@ -11,8 +11,8 @@
 <br>
 
 <p align="center">
-  <i>"Data are just summaries of thousands of stories. Transform them well, and you give those stories a voice.<br>Transform them poorly, and you bury them forever."</i><br>
-  <sub>— adapted from Chip & Dan Heath</sub>
+  <i>"Because Without Data , we are just the " just another person with an opinion ".</i><br>
+  <sub>— W. Edward Deming </sub>
 </p>
 
 <br>
