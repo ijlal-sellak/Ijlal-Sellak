@@ -1,86 +1,80 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HEADER                             -->
+<!--                          HEADER                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9EC4,50:FFB8D1,100:C9A7FF&height=120&section=header" width="100%"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A7FF,50:FFB8D1,100:FF9EC4&height=220&section=header&text=Hi,%20I'm%20Ijlal%20%E2%9C%A8&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Researcher%20%7C%20NLP%20%26%20Computer%20Vision%20%7C%20Building%20AI%20Solutions&descAlignY=58&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A7FF,50:FFB8D1,100:FF9EC4&height=220&section=header&text=Hi,%20I'm%20Ijlal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Researcher%20%7C%20NLP%20%26%20Computer%20Vision%20%7C%20Building%20AI%20Solutions&descAlignY=58&descSize=16" width="100%"/>
 </div>
 
-<!-- 🐱 Animated Walking Cat -->
+<!-- Animated walking cat (subtle, single) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="animated cat" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="90" alt="animated cat" />
 </div>
 
 <div align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=26&pause=1000&color=FF9EC4&center=true&vCenter=true&width=650&lines=Coding+with+love+and+coffee+%E2%98%95;Turning+curiosity+into+code+%F0%9F%92%AB;Building+AI+that+feels+human+%F0%9F%8C%B8" />
+ <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&pause=1000&color=FF9EC4&center=true&vCenter=true&width=650&lines=Coding+with+love+and+coffee;Turning+curiosity+into+code;Building+AI+that+feels+human" />
 </div>
 
 <br>
 
 <p align="center">
-  <i>🌸 "Because without data, we are just another person with an opinion." 🌸</i><br>
+  <i>"Because without data, we are just another person with an opinion."</i><br>
   <sub>— W. Edward Deming</sub>
 </p>
-
-<div align="center">⋆｡°✩ ⋆｡°✩ ⋆｡°✩</div>
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         🌷 ABOUT ME 🌷                         -->
+<!--                          ABOUT ME                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center">🌷 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <table align="center">
 <tr>
-<td width="60%">
+<td width="62%">
 
-- 🌸 **Data Science & AI Engineering** student — ML, NLP, Computer Vision & LLMs
-- 💫 Driven by learning, experimentation, and building **practical AI systems**
-- 🔬 Translating ideas from **research papers → working prototypes**
-- 🌱 Building models that move beyond experimentation into **real-world applications**
-- ☕ Fueled by coffee, curiosity, and clean code
+- **Data Science & AI Engineering** student — Machine Learning, NLP, Computer Vision & LLMs
+- Driven by learning, experimentation, and building **practical AI systems**
+- Translating ideas from **research papers into working prototypes**
+- Building models that move beyond experimentation into **real-world applications**
+- Fueled by coffee, curiosity, and clean code
 
 </td>
-<td width="40%" align="center">
+<td width="38%" align="center">
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180" alt="coding cat"/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="160" alt="coding cat"/>
 
 </td>
 </tr>
 </table>
 
-<div align="center">⋆｡°✩ ⋆｡°✩ ⋆｡°✩</div>
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       🎀 FOCUS AREAS 🎀                        -->
+<!--                         FOCUS AREAS                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center">🎀 Focus Areas</h2>
+<h2 align="center">Focus Areas</h2>
 
 <div align="center">
 
-| ✨ Domain | 🎯 Focus |
+| Domain | Focus |
 |:---|:---|
-| 🌷 **Machine Learning** | Model design, training & evaluation |
-| 💬 **Natural Language Processing** | Transformers, embeddings & text understanding |
-| 👁️ **Computer Vision** | Image classification, detection & segmentation |
-| 🧠 **LLMs & Generative AI** | Fine-tuning, prompting & generation |
-| 📚 **Retrieval-Augmented Generation** | Vector search, FAISS & grounding |
-| 🚀 **AI Systems & Model Deployment** | MLOps, APIs & production pipelines |
-| 🤖 **AI Agents** | Tool use, planning & orchestration |
+| **Machine Learning** | Model design, training & evaluation |
+| **Natural Language Processing** | Transformers, embeddings & text understanding |
+| **Computer Vision** | Image classification, detection & segmentation |
+| **LLMs & Generative AI** | Fine-tuning, prompting & generation |
+| **Retrieval-Augmented Generation** | Vector search, FAISS & grounding |
+| **AI Systems & Deployment** | MLOps, APIs & production pipelines |
+| **AI Agents** | Tool use, planning & orchestration |
 
 </div>
-
-<div align="center">⋆｡°✩ ⋆｡°✩ ⋆｡°✩</div>
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       💻 TECH STACK 💻                         -->
+<!--                          TECH STACK                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
@@ -114,35 +108,31 @@
 
 </div>
 
-<div align="center">⋆｡°✩ ⋆｡°✩ ⋆｡°✩</div>
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    🌱 CURRENTLY LEARNING 🌱                    -->
+<!--                       CURRENTLY LEARNING                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center">🌱 Currently Learning</h2>
+<h2 align="center">Currently Learning</h2>
 
 <div align="center">
 
-| 📖 Topic | 🎯 Goal |
+| Topic | Goal |
 |:---|:---|
-| 🧠 **LLM Fine-tuning** | LoRA, QLoRA & parameter-efficient tuning |
-| 🤖 **Agentic Workflows** | LangGraph, tool-calling & multi-agent systems |
-| 📚 **RAG Pipelines** | Hybrid search, reranking & evaluation |
-| ☁️ **MLOps** | CI/CD for models, monitoring & drift detection |
-| 📝 **Research Writing** | Turning experiments into publishable work |
+| **LLM Fine-tuning** | LoRA, QLoRA & parameter-efficient tuning |
+| **Agentic Workflows** | LangGraph, tool-calling & multi-agent systems |
+| **RAG Pipelines** | Hybrid search, reranking & evaluation |
+| **MLOps** | CI/CD for models, monitoring & drift detection |
+| **Research Writing** | Turning experiments into publishable work |
 
 </div>
-
-<div align="center">⋆｡°✩ ⋆｡°✩ ⋆｡°✩</div>
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   🚀 FEATURED PROJECTS 🚀                      -->
+<!--                      FEATURED PROJECTS                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 <div align="center">
 
@@ -155,16 +145,14 @@
 
 </div>
 
-> 💡 Replace `YOUR_REPO_1` / `YOUR_REPO_2` with your actual repo names.
-
-<div align="center">⋆｡°✩ ⋆｡°✩ ⋆｡°✩</div>
+> Replace `YOUR_REPO_1` and `YOUR_REPO_2` with your actual repository names.
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      📊 GITHUB STATS 📊                        -->
+<!--                         GITHUB STATS                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ijlal-sellak&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF9EC4&icon_color=C9A7FF&text_color=FFB8D1&ring_color=FF9EC4" height="165"/>
@@ -179,30 +167,26 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ijlal-sellak&theme=react-dark&hide_border=true&bg_color=00000000&color=FF9EC4&line=C9A7FF&point=ffffff" width="90%"/>
 </div>
 
-<div align="center">⋆｡°✩ ⋆｡°✩ ⋆｡°✩</div>
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     🏆 ACHIEVEMENTS 🏆                         -->
+<!--                         ACHIEVEMENTS                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center">🏆 Achievements</h2>
+<h2 align="center">Achievements</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ijlal-sellak&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="90%"/>
 </div>
 
-<div align="center">⋆｡°✩ ⋆｡°✩ ⋆｡°✩</div>
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        💌 CONNECT 💌                           -->
+<!--                          CONNECT                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center">💌 Let's Connect</h2>
+<h2 align="center">Let's Connect</h2>
 
 <p align="center">
-  <i>Open to research collaborations, AI projects, and good conversations ☕</i>
+  <i>Open to research collaborations, AI projects, and good conversations.</i>
 </p>
 
 <p align="center">
@@ -224,7 +208,7 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         🐱 FOOTER 🐱                           -->
+<!--                          FOOTER                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="70" alt="walking cat"/>
@@ -232,5 +216,5 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9EC4,50:FFB8D1,100:C9A7FF&height=120&section=footer" width="100%"/>
-  <i>✨ have a lovely day ✨</i>
+  <i>have a lovely day</i>
 </div>
